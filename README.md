@@ -54,9 +54,9 @@ Abre tu navegador web y ve a `http://127.0.0.1:5000/` (o el puerto que esté con
 
 Por ejemplo:
 
-![Pantalla principal](screenshots/1.png)
-![Página de resultados](screenshots/2.png)
-![Página sin resultados](screenshots/3.png)
+![Pantalla principal](1.png)
+![Página de resultados](2.png)
+![Página sin resultados](3.png)
 
 
 ## Estructura del proyecto
