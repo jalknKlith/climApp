@@ -50,9 +50,6 @@ Abre tu navegador web y ve a `http://127.0.0.1:5000/` (o el puerto que esté con
 
 ## Capturas de Pantalla
 
-[Aquí puedes agregar capturas de pantalla de tu aplicación.  Puedes subirlas a un servicio de alojamiento de imágenes como Imgur o directamente a GitHub y luego enlazarlas aquí.  También puedes usar la sintaxis de Markdown para insertarlas directamente si las tienes en tu repositorio.]
-
-Por ejemplo:
 
 ![Pantalla principal](1.png)
 ![Página de resultados](2.png)
@@ -61,23 +58,18 @@ Por ejemplo:
 
 ## Estructura del proyecto
 
-* `climApp/`: Directorio principal de la aplicación (probablemente contiene código adicional no especificado).
+* `climApp/`: Directorio principal de la aplicación ().
 * `db/`: Contiene la base de datos.
-* `static/`: Archivos estáticos como CSS, JavaScript e imágenes.
+* `static/`: Archivo estático CSS.
 * `templates/`: Plantillas HTML para la interfaz de usuario.
-* `.gitignore`: Especifica los archivos y directorios que se ignorarán en Git.
-* `requirements.txt`: Lista de dependencias de Python.
+* `.gitignore`: venv __pycache__.
+* `requirements.txt`
 * `server.py`: Archivo principal del servidor Flask.
-* `weather.py`: Probablemente contiene la lógica para obtener y procesar datos del clima.
+* `weather.py`: La lógica para obtener y procesar datos del clima.
 
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un *issue* o envía un *pull request*.
-
-## Licencia
-
-[Especifica la licencia aquí.  Si no estás seguro, considera usar una licencia permisiva como MIT.  Por ejemplo:  MIT License.]
-
 
 ## Dependencias
 
