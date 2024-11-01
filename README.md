@@ -4,7 +4,7 @@ ClimApp es una sencilla aplicación web para consultar el clima. Utiliza Flask e
 
 ## Características
 
-* Consulta del clima (la funcionalidad específica no está detallada en la estructura de archivos, se asume basada en el nombre).
+* Consulta del clima por ciudad.
 * Diseño simple y limpio usando plantillas Jinja2.
 * Servidor de desarrollo y producción usando Waitress.
 
